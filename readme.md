@@ -4,8 +4,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-green?style=for-the-badge)
 
-**Author:** Dana Sela
-
 ---
 
 ## 📖 About The Project
@@ -52,6 +50,3 @@ Through this pipeline, we expect to clearly observe a prominent **Alpha peak (~1
 *   **NumPy / SciPy** (Signal Processing & Filtering)
 *   **Matplotlib / Seaborn** (Data Visualization)
 *   **Pandas** (Data Manipulation)
-
----
-*Feel free to explore the notebook to see the code and visualizations in action!*
